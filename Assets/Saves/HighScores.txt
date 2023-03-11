@@ -1,0 +1,11 @@
+
+Jeb : 1000
+John : 900
+Bog : 800
+Hale : 700
+Jerry : 600
+Luke : 500
+Dave : 400
+Manny : 300
+Kate : 200
+Neb : 100
